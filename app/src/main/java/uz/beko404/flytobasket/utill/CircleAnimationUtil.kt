@@ -39,7 +39,6 @@ class CircleAnimationUtil {
     private var mBorderWidth = 4
     private var mBorderColor = Color.BLACK
 
-    //    private CircleLayout mCircleLayout;
     private var mBitmap: Bitmap? = null
     private var mImageView: CircleImageView? = null
     private var mAnimationListener: Animator.AnimatorListener? = null
